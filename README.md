@@ -31,7 +31,7 @@ button.danger { background: var(--danger); color: #190404; }
   background: var(--card); border: 1px solid var(--border); border-radius: 16px; padding: 12px;
   display: grid; gap: 8px;
 }
-.card header { display: flex; align-items: center; justify-content: space-between; gap: 8px; }
+.card header { display: flex; alig-items: center; justify-content: space-between; gap: 8px; }
 .tags { display: flex; gap: 6px; flex-wrap: wrap; }
 .tag { font-size: 12px; padding: 4px 8px; border-radius: 999px; background: #0b1526; border: 1px solid var(--border); color: var(--muted); }
 .actions { display: flex; gap: 6px; }
