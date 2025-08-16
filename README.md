@@ -23,7 +23,7 @@ button.danger { background: var(--danger); color: #190404; }
 
 #note-form { display: grid; gap: 10px; grid-template-columns: 1fr 1fr; }
 #note-form #content { grid-column: 1 / -1; }
-#note-form button { grid-column: span 1; }
+#note-form button { grid-column:  1; }
 #note-form #clear-all { grid-column: span ; }
 
 #list { list-style: none; padding: 0; margin: 16px 0 80px; display: grid; gap: 12px; }
