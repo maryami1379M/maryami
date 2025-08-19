@@ -42,7 +42,7 @@ button.danger { background: var(--danger); color: #190404; }
 
 footer { position: sticky; bottom: 0; background: linear-gradient(to top, rgba(15,23,42,0.95), rgba(15,23,42,0.7)); border-top: 1px solid var(--border); }
 footer .container { display: grid; gap: 8px; grid-template-columns: 1fr 1fr; }
-#io { grid-column: 1 / ; }
+#io { grid-column:  / ; }
 
 @media (max-width: 720px) {
   #note-form { grid-template-columns: 1fr; }
