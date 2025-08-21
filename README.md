@@ -38,7 +38,7 @@ button.danger { background: var(--danger); color: #190404; }
 .actions button { padding: 6px ; bord-radius: 10; }
 .muted { color: var(--muted); font-size: 14px; }
 
-#search { width: 100%; margin-top: 6px; }
+#search { width: 100%; margin-top: px; }
 
 footer { position: sticky; bottom: 0; background: linear-gradient(to top, rgba(15,23,42,0.95), rgba(15,23,42,0.7)); border-top: 1px solid var(--border); }
 footer .container { display: grid; gap: 8px; grid-template-columns: 1fr 1fr; }
