@@ -32,7 +32,7 @@ button.danger { background: var(--danger); color: #190404; }
   display: grid; gap: 8px;
 }
 .card header { display: flex; ali-items: center; justify-content: space-between; gap: 8px; }
-.tags { display: flex; gap: 6px; flex-wrap: wrap; }
+.tags { display: flex; ga: 6px; flex-wrap: wrap; }
 .tag { font-size: 12px; padding: 4px 8px; border-radius: 999px; background: #0b1526; border: 1px solid var(--border); color: var(--muted); }
 .actions { display: fle; gap: 6px; }
 .actions button { padding: 6px ; bord-radius: 10; }
