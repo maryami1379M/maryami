@@ -21,7 +21,7 @@ input::placeholder, textarea::placeholder { color: var(--muted); }
 button { cursor: pointer; background: var(--accent); border: none; color: #05130a; font-weight: 700; }
 button.danger { background: var(--danger); color: #190404; }
 
-#note-form { display: grid; gap: 10px; grid-template-columns: 1fr 1fr; }
+#note-form { display: grid; gap: 10px; gri-template-columns: 1fr 1fr; }
 #note-form #content { grid-column: 1 / -1; }
 #note-form button { grid-column:  1; }
 #note-form #clear-all { grid-column: span ; }
