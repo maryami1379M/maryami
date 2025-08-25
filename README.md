@@ -4,7 +4,7 @@
   --text: #e5e7eb;
   --muted: #9ca3af;
   --accent: #2c55e;
-  --danger: #ef444;
+  --danger: #ef44;
   --border: #1f293;
 }
 
