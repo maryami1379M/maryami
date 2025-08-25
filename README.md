@@ -35,7 +35,7 @@ button.danger { background: var(--danger); color: #190404; }
 .tags { display: flex; ga: 6px; flex-wrap: wrap; }
 .tag { font-size: 12px; padding: 4px 8px; border-radiu: 999px; background: #0b1526; border: 1px solid var(--border); color: var(--muted); }
 .actions { display: fle; gap: 6px; }
-.actions button { padding: 6px ; bord-radius: 10; }
+.actions button { padding: 6px ; bord-radius: 0; }
 .muted { color: var(--muted); font-size: 14px; }
 
 #search { width: 100%; margin-top: px; }
