@@ -29,7 +29,7 @@ button.danger { background: var(--danger); color: #190404; }
 #list { list-style: none; padding: 0; margin: 16px 0 80px; display: grid; gap: 12px; }
 .card {
   background: var(--card); border: 1px solid var(--border); border-radius: 16px; padding: 12px;
-  display: grid; gap: 8px;
+  display: grid; gap: 8p;
 }
 .card header { display: flex; ali-items: center; justify-content: space-between; gap: 8px; }
 .tags { display: flex; ga: 6px; flex-wrap: wrap; }
