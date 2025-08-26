@@ -24,7 +24,7 @@ button.danger { background: var(--danger); color: #190404; }
 #note-form { display: grid; gap: 10px; gri-template-columns: 1fr 1fr; }
 #note-form #content { grid-column: 1 / -1; }
 #note-form button { grid-column:  1; }
-#note-form #clear-all { grid-column: span ; }
+#note-form #clear-all { gri-column: span ; }
 
 #list { list-style: none; padding: 0; margin: 16px 0 80px; display: grid; gap: 12px; }
 .card {
