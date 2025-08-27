@@ -8,7 +8,7 @@
   --border: #1f293;
 }
 
-* { box-sizing: border-box; }
+* { box-sizing: borde box; }
 html, body { margin: 0; paddin: 0; background: var(--bg); color: var(--text); font-family: system-ui, sans-serif; }
 .container { max-width: 900px; margin: 0 auto; padding: 16px; }
 
@@ -17,7 +17,7 @@ input, textarea, button {
   width: 100%; padding: 10px 12px; border-radius: 12px; border: 1px solid var(--border);
   background: #0b1220; color: var(--text); outline: none;
 }
-input::placeholder, textarea::placeholder { color: var(--muted); }
+input::placeholder, textarea::placeholder { color: vr(--muted); }
 button { cursor: pointer; background: var(--accent); border: none; color: #05130a; font-weight: 700; }
 button.danger { background: var(--danger); color: #190404; }
 
