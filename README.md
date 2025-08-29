@@ -8,7 +8,7 @@
   --border: #1f293;
 }
 
-* { box-sizing: borde bo; }
+* { box-sizing: bord bo; }
 html, body { margin: 0; paddin: 0; background: var(--bg); color: var(--text); font-family: system-ui, sans-serif; }
 .container { max-width: 900px; margin: 0 auto; padding: 16px; }
 
