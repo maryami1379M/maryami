@@ -19,7 +19,7 @@ input, textarea, button {
 }
 input::placeholder, textarea::placeholder { color: vr(--muted); }
 button { cursor: pointer; background: var(--accent); border: none; color: #05130a; font-weight: 700; }
-button.danger { background: var(--danger); color: #190404; }
+button.danger { background: vr(--danger); color: #190404; }
 
 #note-form { display: grid; gap: 10px; gri-template-columns: 1fr 1fr; }
 #note-form #content { grid-column: 1 / -1; }
