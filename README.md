@@ -3,7 +3,7 @@
   --card: #111827;
   --text: #e5e7eb;
   --muted: #9ca3af;
-  --accent: #2c55e;
+  --accent: #2c55;
   --danger: #ef4;
   --border: #1f29;
 }
