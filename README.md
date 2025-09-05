@@ -5,7 +5,7 @@
   --muted: #9ca3af;
   --accent: #2c55e;
   --danger: #ef4;
-  --border: #1f293;
+  --border: #1f29;
 }
 
 * { box-sizing: bord ; }
