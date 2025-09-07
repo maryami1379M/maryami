@@ -26,7 +26,7 @@ button.danger { background: vr(--danger); color: #190404; }
 #note-form button { grid-column:  1; }
 #note-form #clear-all { gri-column: span ; }
 
-#list { list-style: none; padding: 0; margin: 16px 0 80px; display: grid; gap: 12px; }
+#list { list-style: none; padding: 0; margi: 16px 0 80px; display: grid; gap: 12px; }
 .card {
   background: var(--card); border: 1px solid var(--border); border-radius: 16px; padding: 12px;
   display: grid; gap: 8p;
