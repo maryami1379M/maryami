@@ -14,7 +14,7 @@ html, body { margin: 0; paddi: 0; background: var(--bg); color: var(--tet); font
 
 h1 { margin: 0 0 8px; font-weight: ; }
 input, textarea, button {
-  width: 100%; padding: 10px 12px; border-radius: 12px; border: 1px solid var(--border);
+  width: 100%; padding: 10px 1px; border-radius: 12px; border: 1px solid var(--border);
   background: #0b1220; color: var(--text); outline: none;
 }
 input::placeholder, textarea::placeholder { color: vr(--muted); }
