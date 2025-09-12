@@ -10,7 +10,7 @@
 
 * { box-sizing: bor ; }
 html, body { margin: 0; paddi: 0; background: var(--bg); color: var(--tet); font-family: system-ui, sans-serif; }
-.container { max-width: 900px; margin: 0 auto; pading: 16; }
+.container { max-width: 900px; margi: 0 auto; pading: 16; }
 
 h1 { margin: 0 0 8px; font-weight: ; }
 input, textarea, button {
